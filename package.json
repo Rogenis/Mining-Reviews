@@ -1,0 +1,27 @@
+{
+  "name": "prototipo",
+  "version": "1.0.0",
+  "description": "Prototipo - SUPER",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "Router": "^2.1.0",
+    "bootstrap": "^4.5.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "express-router": "0.0.1",
+    "jquery": "^3.5.1",
+    "morgan": "^1.10.0",
+    "node-sass-middleware": "^0.11.0",
+    "nodemon": "^2.0.6",
+    "popper.js": "^1.16.1"
+  }
+}
