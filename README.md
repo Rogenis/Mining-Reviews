@@ -21,4 +21,5 @@ Para rodar:
   - Bootstrap + Jquery + Popper: npm install jquery popper.js bootstrap
   
  5 - Após todos os procedimentos, basta rodar:
-  - npm start
+  - npm start (vai habilitar a porta 3000)
+  - E acessar http://localhost:3000/
