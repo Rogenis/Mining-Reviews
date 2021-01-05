@@ -23,5 +23,16 @@ function ifood(req,res){
     })
 }
 
+function ajuda(req,res){
+    res.render("main/ajuda", {
+        titulo: "Ajuda"
+    })
+}
 
-module.exports = {index, sobre, contato, ifood}
+function results(req,res){
+    res.render("main/results", {
+        titulo: "Resultado"
+    })
+}
+
+module.exports = {index, sobre, contato, ifood, ajuda, results}

@@ -1,7 +1,16 @@
 
 
-.figure {  /* seleciona todas as img dentro de figure com a classe foto-legenda */
+.figure {  
     align-content: center;
     border: 4px solid rgb(211, 210, 216);
 }
 
+.button {
+    border: none;
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
