@@ -1,9 +1,11 @@
 # Mining-Reviews
-Repositório para o projeto SUPER
+Repositório para o protótipo do projeto SUPER
 
 Para rodar: 
 
-1 - Instale primeiramente o Nodejs e o NPM:  sudo apt install nodejs (instala o NPM automaticamente)
+1 - Clone o repositório: git clone https://github.com/Rogenis/Mining-Reviews
+
+1 - Instale o Nodejs e o NPM:  sudo apt install nodejs (instala o NPM automaticamente)
 
 2 - Verifique se o NPM também foi instalado: npm --version (atualmente está na versão 6.14.10)
 
