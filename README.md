@@ -1,27 +1,15 @@
 # Mining-Reviews
 Repositório para o protótipo do projeto SUPER
 
-Para rodar: 
+## Instalação: 
 
-1 - Clone o repositório: git clone https://github.com/Rogenis/Mining-Reviews
+**Depedências**
+- Nodejs: Instale através do comando `sudo apt install nodejs (instala o NPM automaticamente)`
+- Para verificar se deu tudo certo na instalação, use o comando: `node -v`, e depois `npm -v`
 
-1 - Instale o Nodejs e o NPM:  sudo apt install nodejs (instala o NPM automaticamente)
-
-2 - Verifique se o NPM também foi instalado: npm --version (atualmente está na versão 6.14.10)
-
-3 - Instale o express: npm install express --save
-
-4 - Após isso, instale as outras depedências:
-  - Morgan: npm install morgan
-  - Nodemon: npm install nodemon
-  - Router: npm install Router
-  - Express-router: npm install express-router
-  - Handlebars: npm install express-handlebars
-  - Sass: sudo npm install sass -g
-  - Adicionando Sasss no express: npm install node-sass-middleware
-  - Font-Awesome: npm install @fortawesome/fontawesome-free
-  - Bootstrap + Jquery + Popper: npm install jquery popper.js bootstrap
-  
- 5 - Após todos os procedimentos, basta rodar:
-  - npm start (vai habilitar a porta 3000)
-  - E acessar http://localhost:3000/
+**Como rodar localmente**
+1. Clone o repositório através do comando: `git clone https://github.com/Rogenis/Mining-Reviews`
+2. Instale as depedências citadas acima.
+3. No diretório principal, use o comando `npm install`, para instalar as depedências do projeto. 
+4. Após todos os procedimentos, use o comando: `npm start`
+5. Por fim acesse no browser: `http://localhost:3000`
