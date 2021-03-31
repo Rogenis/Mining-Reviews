@@ -14,3 +14,4 @@ result = reviews_all(
 
 app_reviews_df = pd.DataFrame(result)
 app_reviews_df.to_csv('reviews.csv', index=None, header=True)
+

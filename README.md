@@ -13,3 +13,6 @@ Repositório para o protótipo do projeto SUPER
 3. No diretório principal, use o comando `npm install`, para instalar as depedências do projeto. 
 4. Após todos os procedimentos, use o comando: `npm start`
 5. Por fim acesse no browser: `http://localhost:3000`
+
+
+Obs: sudo npm rebuild node-sass
